@@ -27,7 +27,7 @@ Can be natively read by JavaScript.
 </p>
 
 
-<h2> 
+<p> 
 
 
 Student Computing Consultant
@@ -41,5 +41,9 @@ GitHub Learning
 Big Data (sql, python, google analytics...)
 
 
-
 fin tech
+
+
+resource: <br>
+https://summerofcode.withgoogle.com/ Students work with an open source organization on a 3 month programming project during their break from school.
+
