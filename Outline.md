@@ -3,15 +3,7 @@
 
 <html>
 
-<head>
-outline 
-</head>
-
 <h1>Learning Map</h1>
-
-
-Outline
-
 
 <h2>Web dev:</h2>
 
