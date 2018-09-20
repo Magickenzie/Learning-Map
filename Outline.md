@@ -1,3 +1,12 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+outline 
+</head>
+
 <h1>Learning Map</h1>
 
 
@@ -47,3 +56,7 @@ fin tech
 
 resource: <br>
 https://summerofcode.withgoogle.com/ Students work with an open source organization on a 3 month programming project during their break from school.
+
+
+
+</html>
